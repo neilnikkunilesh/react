@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/contantmanager/static/js/main.549732b0.chunk.js",
+    "main.js.map": "/contantmanager/static/js/main.549732b0.chunk.js.map",
+    "runtime-main.js": "/contantmanager/static/js/runtime-main.09e582bf.js",
+    "runtime-main.js.map": "/contantmanager/static/js/runtime-main.09e582bf.js.map",
+    "static/css/2.800be05e.chunk.css": "/contantmanager/static/css/2.800be05e.chunk.css",
+    "static/js/2.3828b4d5.chunk.js": "/contantmanager/static/js/2.3828b4d5.chunk.js",
+    "static/js/2.3828b4d5.chunk.js.map": "/contantmanager/static/js/2.3828b4d5.chunk.js.map",
+    "static/js/3.6904bcb6.chunk.js": "/contantmanager/static/js/3.6904bcb6.chunk.js",
+    "static/js/3.6904bcb6.chunk.js.map": "/contantmanager/static/js/3.6904bcb6.chunk.js.map",
+    "index.html": "/contantmanager/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/contantmanager/static/css/2.800be05e.chunk.css.map",
+    "static/js/2.3828b4d5.chunk.js.LICENSE.txt": "/contantmanager/static/js/2.3828b4d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09e582bf.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.3828b4d5.chunk.js",
+    "static/js/main.549732b0.chunk.js"
+  ]
+}
